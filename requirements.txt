@@ -1,0 +1,24 @@
+# Minecraft Launcher Tweaker - Python Dependencies
+
+# GUI Framework
+PyQt6==6.6.0
+
+# JSON and Config Management
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Performance Optimization
+numpy==1.24.3
+
+# Utilities
+click==8.1.3
+requests==2.31.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Code Quality
+black==23.7.0
+flake8==6.0.0
+mypy==1.4.1
